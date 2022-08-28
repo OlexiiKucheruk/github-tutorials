@@ -1,5 +1,5 @@
 .body {
-  background-color: lightgray;
+  background-color: whitesmoke;
 }
 .title {
   color: #000;
@@ -7,3 +7,4 @@
 .text {
   color: #000;
 }
+.lined {text-decoration: line-through;}
