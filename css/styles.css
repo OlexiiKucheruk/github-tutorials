@@ -1,5 +1,6 @@
-.body {background-color:beige;
-color: crimson;}
-.title {color: black;}
-.main {background-color:beige;
-color: crimson;}
+.body {
+  background-color: black;
+}
+.title {
+  color: #fff;
+}
