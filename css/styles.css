@@ -1,8 +1,9 @@
 .body {
-  background-color: #fff;
+  background-color: lightgray;
 }
 .title {
   color: #000;
 }
-.text {color: #000;
-background-color: lightgray;}
+.text {
+  color: #000;
+}
